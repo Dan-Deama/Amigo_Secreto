@@ -44,7 +44,9 @@ function sortearAmigo() {
     resultado = listaAmigos[indiceLista];
     resultadoHTML.textContent = resultado;
     console.log(indiceLista, resultado);
-  
+    // Remove o amigo sorteado da lista
+    listaAmigos.splice(indiceLista, 1);
+    atualizarLista();
 }}
 
 console.log(listaAmigos);
