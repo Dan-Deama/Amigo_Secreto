@@ -2,7 +2,7 @@
 
 # Amigo Secreto
 
-Este é um simples aplicativo web para organizar o tradicional jogo de Amigo Secreto (ou Amigo Oculto), onde os participantes trocam presentes entre si de forma anônima.
+Este é um simples aplicativo web para organizar o tradicional jogo de Amigo Secreto, onde os participantes cadastram os participantes e sorteam um nome de forma aleatória.
 
 ## Funcionalidades
 
@@ -17,7 +17,11 @@ Este é um simples aplicativo web para organizar o tradicional jogo de Amigo Sec
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-  ## Como usar:
+## Link Deploy:
+Para visualizar o app em funcionamento, acesse o [link do repositório no Vercel](https://amigo-secreto-eta-two.vercel.app/).
+
+
+## Como usar:
 
 1. Na tela inicial, digitar o nome do amigo que deseja cadastrar e clicar em **ADICIONAR**;
 
