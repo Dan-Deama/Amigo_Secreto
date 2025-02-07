@@ -13,9 +13,9 @@ Este é um simples aplicativo web para organizar o tradicional jogo de Amigo Sec
 
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
   ## Como usar:
 
